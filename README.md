@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I am a Software engineer and Flutter daveloper.</p>
+<p align="left">I am a Flutter daveloper.</p>
 
 ###
 
